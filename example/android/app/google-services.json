@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1035883453080",
+    "project_id": "fl-chat-142db",
+    "storage_bucket": "fl-chat-142db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035883453080:android:2f05d90cdda363f62c4eed",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035883453080-64n2k3pd9ldqb132qs2pdpeh5d5oq4qp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.example",
+            "certificate_hash": "1bac97751ca244d99e51d8fbf24582f162a8af29"
+          }
+        },
+        {
+          "client_id": "1035883453080-rtjplt5dqc5kql6ddl0c4scc7eb281iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBZJ8yQ101ggTMZiYMqLa9SNYSTZpB7fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035883453080-dv8r3ojg7a6otn9pqbu5vrfo30vliau9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1035883453080-gvdqgt79eq12vratgigs86idba220rjl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035883453080:android:195570c42cf21d332c4eed",
+        "android_client_info": {
+          "package_name": "com.example.fl_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035883453080-s48ard6bordlbqolgcbiomu7qhovt065.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fl_chat",
+            "certificate_hash": "1bac97751ca244d99e51d8fbf24582f162a8af29"
+          }
+        },
+        {
+          "client_id": "1035883453080-rtjplt5dqc5kql6ddl0c4scc7eb281iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBZJ8yQ101ggTMZiYMqLa9SNYSTZpB7fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035883453080-dv8r3ojg7a6otn9pqbu5vrfo30vliau9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1035883453080-gvdqgt79eq12vratgigs86idba220rjl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
