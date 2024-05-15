@@ -17,7 +17,8 @@ Follow these steps to integrate the chat module into your Flutter app:
     ```yaml
     dependencies:
       kb_chat_module:
-        path: ../
+        git:
+          url: https://github.com/mahi2swt/my-chat.git
     ```
 
 3. **Connect Firebase Services**: Configure your Firebase project to support the chat module by enabling the following Firebase services:
